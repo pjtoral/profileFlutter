@@ -1,6 +1,7 @@
 # profile_app
 
-A new Flutter project.
+A new Flutter project for creating a static profile application. Below you will see how the application looks like. \
+![Image Name](/images/images.png)
 
 ## Getting Started
 
